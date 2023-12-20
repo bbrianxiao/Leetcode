@@ -1,4 +1,4 @@
-# Max Product Difference Between Two Pairs
+# 1913. Max Product Difference Between Two Pairs
 
 This C++ solution is designed to compute the maximum product difference between two pairs of numbers in an array. The approach focuses on identifying the two largest and two smallest numbers in the array and then calculating the product difference between these pairs.
 

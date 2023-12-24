@@ -1,4 +1,4 @@
-# Lowest Common Ancestor in a Binary Tree with Parent Pointers
+# 1650. Lowest Common Ancestor in a Binary Tree III
 
 ## Implementation Details
 - The `lowestCommonAncestor` function finds the lowest common ancestor of two nodes in a binary tree where each node also has a pointer to its parent.

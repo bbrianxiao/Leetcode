@@ -1,4 +1,4 @@
-# Nested List Weight Sum
+# 339. Nested List Weight Sum
 
 ## Overview
 This program calculates the weighted sum of all integers in a nested list structure. Each integer is multiplied by its depth in the list to compute the sum.

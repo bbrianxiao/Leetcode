@@ -13,6 +13,9 @@
 - **Time Complexity**: `O(n)`, where `n` is the number of buildings. The function requires a single pass through the vector.
 - **Space Complexity**: `O(1)`, excluding the space used for the output. The algorithm uses a fixed amount of additional space (for `currmin` and loop index).
 
+## Problem Link
+For a detailed problem statement and constraints, visit [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/).
+
 ## Usage
 ```cpp
 Solution solution;

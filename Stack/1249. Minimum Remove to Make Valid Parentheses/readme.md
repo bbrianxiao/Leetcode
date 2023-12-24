@@ -12,3 +12,6 @@ The implementation utilizes a stack to keep track of unmatched parentheses. The 
 ## Time and Space Complexity
 - **Time Complexity**: `O(n)`, where `n` is the length of the string.
 - **Space Complexity**: `O(n)` in the worst case, with all characters being opening parentheses.
+
+## Problem Link
+For a detailed problem statement and constraints, visit [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/).

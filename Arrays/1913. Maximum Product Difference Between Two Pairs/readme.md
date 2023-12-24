@@ -13,6 +13,9 @@ This C++ solution is designed to compute the maximum product difference between 
 - **Time Complexity**: The time complexity of this algorithm is `O(n)`, where `n` is the number of elements in the array. This is because the algorithm needs to iterate through the array only once.
 - **Space Complexity**: The space complexity is `O(1)` as the solution uses a fixed amount of space regardless of the input array size.
 
+## Problem Link
+For a detailed problem statement and constraints, visit [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/).
+
 ## Usage
 
 ```cpp

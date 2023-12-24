@@ -9,3 +9,6 @@
 ## Time and Space Complexities
 - **Time Complexity**: The time complexity is `O(n)` where `n` is the length of the abbreviation string. The function makes a single pass through the abbreviation string.
 - **Space Complexity**: The space complexity is `O(1)` as the function uses a constant amount of space regardless of the input size.
+
+## Problem Link
+For a detailed problem statement and constraints, visit [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/).

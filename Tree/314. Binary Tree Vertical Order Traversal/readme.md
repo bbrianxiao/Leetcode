@@ -14,3 +14,6 @@ The Binary Tree Vertical Order Traversal algorithm is designed to traverse a bin
 
 - **Time Complexity**: The overall time complexity is `O(N)`, where `N` is the number of nodes in the tree. Each node is processed once in the BFS.
 - **Space Complexity**: The space complexity is also `O(N)`. The queue and map together may hold all nodes of the tree in the worst-case scenario.
+
+## Problem Link
+For a detailed problem statement and constraints, visit [Binary Tree Vertical Order Traversal on LeetCode](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/).

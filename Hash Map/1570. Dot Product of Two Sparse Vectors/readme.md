@@ -14,6 +14,9 @@
   - The space complexity for creating the Hash Map is `O(L)`, where `L` is the number of non-zero elements.
   - The `dotProduct` method has a space complexity of `O(1)` as it calculates the dot product without using additional space proportional to the size of the input.
 
+## Problem Link
+For a detailed problem statement and constraints, visit [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/).
+
 ## Usage
 ```cpp
 vector<int> nums1 = {1, 0, 0, 2, 3};

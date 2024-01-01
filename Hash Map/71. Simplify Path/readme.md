@@ -12,7 +12,7 @@ The `simplifyPath` function in the `Solution` class processes a Unix-style file 
   - Other components are pushed onto the stack.
 - After processing all components, the function constructs the simplified path from the stack's content in reverse order.
 
-## Time and Space Complexities
+## Time and Space Compslexities
 - **Time Complexity**: `O(N)`, where `N` is the length of the input path string. The function iterates through each character of the path once.
 - **Space Complexity**: `O(N)`, for storing the components of the path in the stack.
 

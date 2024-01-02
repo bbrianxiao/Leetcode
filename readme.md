@@ -11,7 +11,7 @@
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
 - [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)
 ##### Random Picks
-- [528. Random Pick with Weight](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum/528.%20Random%20Pick%20With%20Weight)
+- [528. Random Pick with Weight](https://github.com/bbrianxiao/Leetcode/tree/main/Math/528.%20Random%20Pick%20With%20Weight)
 
 #### [Prefix Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum)
 - [303. Range Sum Query - Immutable](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable)

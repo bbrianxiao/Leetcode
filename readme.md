@@ -41,10 +41,12 @@
 - [1624. Largest Substring Between Two Equal Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters)
 - [2610. Convert an Array Into a 2D Array With Conditions](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions)
 
-#### [Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree)
-##### DFS/BFS Tree Traversal
+#### [Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree)  
+
+``DFS/BFS Tree Traversal``
 - [314. Binary Tree Vertical Order Traversal](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
-- [515. Find Largest Value in Each Tree Row](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)
-##### Lowest Common Ancestor
+- [515. Find Largest Value in Each Tree Row](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)  
+
+``Lowest Common Ancestor``
 - [1650. Lowest Common Ancestor in a Binary Tree III](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
 

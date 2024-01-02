@@ -1,4 +1,4 @@
-# 1624. Max Length Between Equal Characters
+# 1624. Largest Substring Between Two Equal Characters
 
 ## Overview
 The `maxLengthBetweenEqualCharacters` function in the `Solution` class finds the maximum length of a substring located between two identical characters in a given string. If no such substring exists, it returns -1.

@@ -9,8 +9,9 @@
 - [339. Nested List Weight Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/339.%20Nested%20List%20Weight%20Sum)
 
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
-- [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)
-##### Random Picks
+- [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)  
+
+``Random Picks``
 - [528. Random Pick with Weight](https://github.com/bbrianxiao/Leetcode/tree/main/Math/528.%20Random%20Pick%20With%20Weight)
 
 #### [Prefix Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum)

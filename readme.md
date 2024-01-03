@@ -58,4 +58,7 @@
 - [1650. Lowest Common Ancestor in a Binary Tree III](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
 
 
-#### [Dynamic Programming](https://github.com/bbrianxiao/Leetcode/tree/main/) 
+#### [Dynamic Programming](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming) 
+
+``Bit Masking``
+- [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)

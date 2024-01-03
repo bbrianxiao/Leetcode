@@ -17,11 +17,17 @@
 #### [Prefix Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum)
 - [303. Range Sum Query - Immutable](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable)
 
+#### [Greedy](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy)
+- [2125. Number of Laser Beams in a Bank](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy/2125.%20number%20of%20laser%20beams%20in%20a%20bank)
+
 #### [Stack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack)
 - [1249. Minimum Removal to Make Valid Parentheses](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)
 - [150. MinStack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/150.%20Min%20Stack)
 - [227. Basic Calculator II](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/227.%20Basic%20Calculator%20II)
 - [71. Simplify Path](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/71.%20Simplify%20Path)
+
+#### [Heap](https://github.com/bbrianxiao/Leetcode/tree/main/Heap)
+- [215. Kth Largest Element in an Array](https://github.com/bbrianxiao/Leetcode/tree/main/Heap/215.%20Kth%20Largest%20Element%20in%20an%20Array)
 
 #### [String](https://github.com/bbrianxiao/Leetcode/tree/main/String)
 - [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String)

@@ -14,6 +14,9 @@ The `numberOfBeams` function calculates the total number of laser beams formed i
 - **Time Complexity**: `O(N*M)`, where `N` is the number of rows, and `M` is the length of each row in the `bank` vector. Each character in the grid is processed once.
 - **Space Complexity**: `O(1)`, as the solution uses a constant amount of additional space.
 
+## Problem Link
+For a detailed problem statement and constraints, visit [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/?envType=daily-question&envId=2024-01-03).
+
 ## Usage
 ```cpp
 Solution solution;

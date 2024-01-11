@@ -65,6 +65,6 @@
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst)
-- [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20List)
+- [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
 
 

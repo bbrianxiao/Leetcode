@@ -62,3 +62,7 @@
 
 ``Bitmask``
 - [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)
+
+#### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
+- [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst)
+

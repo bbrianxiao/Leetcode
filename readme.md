@@ -60,6 +60,7 @@
 
 
 #### [Dynamic Programming](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming) 
+- [70. Climbing Stairs](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/70.%20Climbing%20Stairs)
 
 ``Bitmask``
 - [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)

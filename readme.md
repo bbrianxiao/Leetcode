@@ -41,6 +41,7 @@
 #### [Arrays](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays)
 - [1762. Buildings With an Ocean View](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1762.%20Buildings%20With%20an%20Ocean%20View)
 - [1913. Max Product Difference Between Two Pairs](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
+- [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/88.%20Merge%20Sorted%20Array)
 
 
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)

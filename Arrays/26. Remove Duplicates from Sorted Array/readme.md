@@ -1,4 +1,4 @@
-# 26. Remove Element
+# 26. Remove Duplicates from Sorted Array
 
 ## Overview
 The `removeElement` function removes all instances of a specified value `val` from an array `nums`. The function modifies the array in-place and returns the new length of the array after removal.

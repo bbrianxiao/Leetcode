@@ -43,6 +43,7 @@
 - [1913. Max Product Difference Between Two Pairs](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
 - [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/88.%20Merge%20Sorted%20Array)
 - [27. Remove Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/27.%20Remove%20Element)
+- [26. Remove Duplicates from Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)
 - [1207. Unique Number of Occurrences](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1207.%20Unique%20Number%20of%20Occurrences)

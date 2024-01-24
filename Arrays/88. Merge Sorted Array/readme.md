@@ -13,7 +13,7 @@ The `merge` function merges two sorted arrays, `nums1` and `nums2`, into a singl
 - **Space Complexity**: `O(1)`, as the merge is done in place without using any extra space.
 
 ## Problem Link
-For a detailed problem statement and constraints, visit [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150).
+For a detailed problem statement and constraints, visit [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/).
 
 ## Usage
 ```cpp

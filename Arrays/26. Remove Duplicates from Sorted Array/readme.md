@@ -14,7 +14,7 @@ The `removeElement` function removes all instances of a specified value `val` fr
 - **Space Complexity**: `O(1)`, as the operation is done in place without using any extra space.
 
 ## Problem Link
-For a detailed problem statement and constraints, visit [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150).
+For a detailed problem statement and constraints, visit [Remove Element](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?tab=Description).
 
 ## Usage
 ```cpp

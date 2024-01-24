@@ -1,4 +1,4 @@
-# Best Time to Buy and Sell Stock
+# 121. Best Time to Buy and Sell Stock
 
 ## Overview
 The `maxProfit` function finds the maximum profit that can be made by buying and selling a single stock. Given an array `prices` where `prices[i]` is the price of a given stock on the `i`th day, it calculates the maximum profit that can be achieved from a single transaction (buying one and selling one share of the stock).

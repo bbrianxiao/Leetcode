@@ -45,6 +45,7 @@
 - [27. Remove Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/27.%20Remove%20Element)
 - [26. Remove Duplicates from Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 - [169. Majority Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/169.%20Majority%20Element)
+- [121. Best Time to Buy and Sell Stock](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)
 - [1207. Unique Number of Occurrences](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1207.%20Unique%20Number%20of%20Occurrences)

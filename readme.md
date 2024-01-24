@@ -47,7 +47,7 @@
 - [169. Majority Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/169.%20Majority%20Element)
 - [121. Best Time to Buy and Sell Stock](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [122. Best Time to Buy and Sell Stock II](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
-- [150. Jump Game](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/55.%20Jump%20Game)
+- [55. Jump Game](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/55.%20Jump%20Game)
 
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)
 - [1207. Unique Number of Occurrences](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1207.%20Unique%20Number%20of%20Occurrences)

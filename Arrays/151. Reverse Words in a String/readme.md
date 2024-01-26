@@ -15,7 +15,7 @@ The `reverseWords` function reverses the words in a given string `s`. Each word 
 - **Space Complexity**: `O(N)`, as additional space is used to store the words and the final reversed string.
 
 ## Problem Link
-For a detailed problem statement and constraints, visit [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150).
+For a detailed problem statement and constraints, visit [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/).
 
 ## Usage
 ```cpp

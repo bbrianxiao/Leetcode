@@ -32,7 +32,7 @@
 #### [String](https://github.com/bbrianxiao/Leetcode/tree/main/String)
 - [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String)
 - [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String)
-- [28. Find the Index of the First Occurrence in a String](https://github.com/bbrianxiao/Leetcode/tree/main/String/28 %20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
+- [28. Find the Index of the First Occurrence in a String](https://github.com/bbrianxiao/Leetcode/tree/main/String/28%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
 
 ``Abbreviation``
 - [408. Valid Word Abbreviation](https://github.com/bbrianxiao/Leetcode/tree/main/String/408.%20Valid%20Word%20Abbreviation)

@@ -64,6 +64,11 @@
 - [2610. Convert an Array Into a 2D Array With Conditions](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions)
 - [359. Logger Rate Limiter](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/359.%20Logger%20Rate%20Limiter)
 
+#### [Graph Theory](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory)  
+
+``Topological Sort``
+- [1136. Parallel Courses](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/1136.%20Parallel%20Courses)
+
 #### [Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree)  
 
 ``DFS/BFS Tree Traversal``

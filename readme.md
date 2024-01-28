@@ -3,7 +3,10 @@
 ### Categories
 
 #### [Two Pointers](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer)
-- [680. Valid Palindrome II](https://github.com/bbrianxiao/Leetcode/blob/main/Two%20Pointer/680.%20Valid%20Palindrome%20II/solution.cpp)
+- [680. Valid Palindrome II](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/680.%20Valid%20Palindrome%20II)
+
+#### [Sliding Window](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window)
+- [3. Longest Substring Without Repeating Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 
 #### [Recursion](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion)
 - [339. Nested List Weight Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/339.%20Nested%20List%20Weight%20Sum)

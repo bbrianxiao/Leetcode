@@ -37,9 +37,9 @@
 - [215. Kth Largest Element in an Array](https://github.com/bbrianxiao/Leetcode/tree/main/Heap/215.%20Kth%20Largest%20Element%20in%20an%20Array)
 
 #### [String](https://github.com/bbrianxiao/Leetcode/tree/main/String)
-- [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String)
-- [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/bbrianxiao/Leetcode/tree/main/String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
+- [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String)
+- [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String)
 
     ``Abbreviation``
     - [408. Valid Word Abbreviation](https://github.com/bbrianxiao/Leetcode/tree/main/String/408.%20Valid%20Word%20Abbreviation)
@@ -47,26 +47,26 @@
 
 
 #### [Arrays](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays)
-- [1762. Buildings With an Ocean View](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1762.%20Buildings%20With%20an%20Ocean%20View)
-- [1913. Max Product Difference Between Two Pairs](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
-- [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/88.%20Merge%20Sorted%20Array)
-- [27. Remove Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/27.%20Remove%20Element)
 - [26. Remove Duplicates from Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
-- [169. Majority Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/169.%20Majority%20Element)
+- [27. Remove Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/27.%20Remove%20Element)
+- [55. Jump Game](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/55.%20Jump%20Game)
+- [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/88.%20Merge%20Sorted%20Array)
 - [121. Best Time to Buy and Sell Stock](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [122. Best Time to Buy and Sell Stock II](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
-- [55. Jump Game](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/55.%20Jump%20Game)
-- [274. H-Index](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/274.%20H-Index)
 - [134. Gas Station](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/134.%20Gas%20Station)
-- [238. Product of Array Except Self](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/238.%20Product%20of%20Array%20Except%20Self)
 - [151. Reverse Words in a String](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/151.%20Reverse%20Words%20in%20a%20String)
+- [169. Majority Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/169.%20Majority%20Element)
+- [238. Product of Array Except Self](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/238.%20Product%20of%20Array%20Except%20Self)
+- [274. H-Index](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/274.%20H-Index)
+- [1762. Buildings With an Ocean View](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1762.%20Buildings%20With%20an%20Ocean%20View)
+- [1913. Max Product Difference Between Two Pairs](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
 
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)
+- [359. Logger Rate Limiter](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/359.%20Logger%20Rate%20Limiter)
 - [1207. Unique Number of Occurrences](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1207.%20Unique%20Number%20of%20Occurrences)
 - [1570. Dot Product of Two Sparse Vectors](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors)
 - [1624. Largest Substring Between Two Equal Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters)
 - [2610. Convert an Array Into a 2D Array With Conditions](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions)
-- [359. Logger Rate Limiter](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/359.%20Logger%20Rate%20Limiter)
 
 #### [Graph Theory](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory)  
 -
@@ -93,8 +93,6 @@
     - [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
-- [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst)
-
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
-
+- [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst)
 

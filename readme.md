@@ -27,10 +27,11 @@
 - [2125. Number of Laser Beams in a Bank](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy/2125.%20number%20of%20laser%20beams%20in%20a%20bank)
 
 #### [Stack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack)
-- [1249. Minimum Removal to Make Valid Parentheses](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)
+- [71. Simplify Path](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/71.%20Simplify%20Path)
 - [150. MinStack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/150.%20Min%20Stack)
 - [227. Basic Calculator II](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/227.%20Basic%20Calculator%20II)
-- [71. Simplify Path](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/71.%20Simplify%20Path)
+- [921. Minimum Add to Make Parentheses Valid](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)
+- [1249. Minimum Removal to Make Valid Parentheses](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)
 
 #### [Heap](https://github.com/bbrianxiao/Leetcode/tree/main/Heap)
 - [215. Kth Largest Element in an Array](https://github.com/bbrianxiao/Leetcode/tree/main/Heap/215.%20Kth%20Largest%20Element%20in%20an%20Array)

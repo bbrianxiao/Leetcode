@@ -6,7 +6,7 @@
 - [680. Valid Palindrome II](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/680.%20Valid%20Palindrome%20II)
 
 - ``Two pointers for two sequences``
-- [986. Interval List Intersections](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/986.%20Interval%20List%20Intersections)
+    - [986. Interval List Intersections](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/986.%20Interval%20List%20Intersections)
 
 #### [Sliding Window](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window)
 - [3. Longest Substring Without Repeating Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters)

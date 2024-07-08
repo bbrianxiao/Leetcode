@@ -17,8 +17,8 @@
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
 - [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)  
 
-- ``Random Picks``
-- [528. Random Pick with Weight](https://github.com/bbrianxiao/Leetcode/tree/main/Math/528.%20Random%20Pick%20With%20Weight)
+    ``Random Picks``
+    - [528. Random Pick with Weight](https://github.com/bbrianxiao/Leetcode/tree/main/Math/528.%20Random%20Pick%20With%20Weight)
 
 #### [Prefix Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum)
 - [303. Range Sum Query - Immutable](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable)
@@ -40,8 +40,8 @@
 - [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/bbrianxiao/Leetcode/tree/main/String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
 
-- ``Abbreviation``
-- [408. Valid Word Abbreviation](https://github.com/bbrianxiao/Leetcode/tree/main/String/408.%20Valid%20Word%20Abbreviation)
+    ``Abbreviation``
+    - [408. Valid Word Abbreviation](https://github.com/bbrianxiao/Leetcode/tree/main/String/408.%20Valid%20Word%20Abbreviation)
 
 
 
@@ -69,27 +69,27 @@
 
 #### [Graph Theory](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory)  
 
-- ``Topological Sort``
-- [1136. Parallel Courses](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/1136.%20Parallel%20Courses)
+    ``Topological Sort``
+    - [1136. Parallel Courses](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/1136.%20Parallel%20Courses)
 
 #### [Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree)  
 
-- ``DFS/BFS Tree Traversal``
-- [314. Binary Tree Vertical Order Traversal](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
-- [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List)
-- [515. Find Largest Value in Each Tree Row](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)  
+    ``DFS/BFS Tree Traversal``
+    - [314. Binary Tree Vertical Order Traversal](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
+    - [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List)
+    - [515. Find Largest Value in Each Tree Row](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)  
 
-- ``Lowest Common Ancestor``
-- [236. Lowest Common Ancestor in a Binary Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
-- [1650. Lowest Common Ancestor in a Binary Tree III](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
+    ``Lowest Common Ancestor``
+    - [236. Lowest Common Ancestor in a Binary Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
+    - [1650. Lowest Common Ancestor in a Binary Tree III](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
 
 
 #### [Dynamic Programming](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming) 
 - [70. Climbing Stairs](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/70.%20Climbing%20Stairs)
 - [931. Minimum Falling Path Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/931.%20Minimum%20Falling%20Path%20Sum%20Solution)
 
-- ``Bitmask``
-- [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)
+    ``Bitmask``
+    - [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst)

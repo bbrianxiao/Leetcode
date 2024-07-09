@@ -71,6 +71,7 @@
 #### [Graph Theory](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory)  
 -
     ``BFS/DFS``
+    - [200. Number of Islands](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/200.%20Number%20of%20Islands)
     - [1091. Shortest Path in Binary Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
 
 -

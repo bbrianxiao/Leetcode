@@ -30,6 +30,7 @@
 - [71. Simplify Path](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/71.%20Simplify%20Path)
 - [150. MinStack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/150.%20Min%20Stack)
 - [227. Basic Calculator II](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/227.%20Basic%20Calculator%20II)
+- [636. Exclusive Time of Functions](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/636.%20Exclusive%20Time%20of%20Functions)
 - [921. Minimum Add to Make Parentheses Valid](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid)
 - [1249. Minimum Removal to Make Valid Parentheses](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)
 

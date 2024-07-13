@@ -36,6 +36,7 @@
 
 #### [Heap](https://github.com/bbrianxiao/Leetcode/tree/main/Heap)
 - [215. Kth Largest Element in an Array](https://github.com/bbrianxiao/Leetcode/tree/main/Heap/215.%20Kth%20Largest%20Element%20in%20an%20Array)
+- [973. K Closest Points to Origin](https://github.com/bbrianxiao/Leetcode/tree/main/Heap/973.%20K%20Closest%20Points%20to%20Origin)
 
 #### [String](https://github.com/bbrianxiao/Leetcode/tree/main/String)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/bbrianxiao/Leetcode/tree/main/String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)

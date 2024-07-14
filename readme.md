@@ -12,6 +12,7 @@
 - [3. Longest Substring Without Repeating Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 
 #### [Recursion](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion)
+- [50. Pow(x, n)](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/50.%20Pow(x%2C%20n))
 - [339. Nested List Weight Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/339.%20Nested%20List%20Weight%20Sum)
 
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)

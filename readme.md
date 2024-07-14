@@ -67,6 +67,7 @@
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)
 - [249. Group Shifted Strings](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/249.%20Group%20Shifted%20Strings)
 - [359. Logger Rate Limiter](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/359.%20Logger%20Rate%20Limiter)
+- [560. Subarray Sum Equals K](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/560.%20Subarray%20Sum%20Equals%20K)
 - [1207. Unique Number of Occurrences](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1207.%20Unique%20Number%20of%20Occurrences)
 - [1570. Dot Product of Two Sparse Vectors](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors)
 - [1624. Largest Substring Between Two Equal Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters)

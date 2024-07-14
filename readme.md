@@ -18,6 +18,7 @@
 - [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)  
 
     ``Random Picks``
+    - [398. Random Pick Index](https://github.com/bbrianxiao/Leetcode/tree/main/Math/398.%20Random%20Pick%20Index)
     - [528. Random Pick with Weight](https://github.com/bbrianxiao/Leetcode/tree/main/Math/528.%20Random%20Pick%20With%20Weight)
 
 #### [Prefix Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum)

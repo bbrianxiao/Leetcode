@@ -26,6 +26,7 @@
 - [303. Range Sum Query - Immutable](https://github.com/bbrianxiao/Leetcode/tree/main/Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable)
 
 #### [Greedy](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy)
+- [670. Maximum Swap](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy/670.%20Maximum%20Swap)
 - [2125. Number of Laser Beams in a Bank](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy/2125.%20number%20of%20laser%20beams%20in%20a%20bank)
 
 #### [Stack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack)

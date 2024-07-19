@@ -16,6 +16,9 @@
 - [50. Pow(x, n)](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/50.%20Pow(x%2C%20n))
 - [339. Nested List Weight Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/339.%20Nested%20List%20Weight%20Sum)
 
+#### [Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix)
+- [498. Diagonal Traverse](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix/498.%20Diagonal%20Traverse)
+
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
 - [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)  
 

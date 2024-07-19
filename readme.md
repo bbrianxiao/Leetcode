@@ -7,6 +7,7 @@
 
     ``Two pointers for two sequences``
     - [986. Interval List Intersections](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/986.%20Interval%20List%20Intersections)
+    - [1868. Product of Two Run-Length Encoded Arrays](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/1868.%20Product%20of%20Two%20Run-Length%20Encoded%20Arrays)
 
 #### [Sliding Window](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window)
 - [3. Longest Substring Without Repeating Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters)

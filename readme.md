@@ -6,6 +6,7 @@
 - [680. Valid Palindrome II](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/680.%20Valid%20Palindrome%20II)
 
     ``Two pointers for two sequences``
+    - [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/88.%20Merge%20Sorted%20Array)
     - [986. Interval List Intersections](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/986.%20Interval%20List%20Intersections)
     - [1868. Product of Two Run-Length Encoded Arrays](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/1868.%20Product%20of%20Two%20Run-Length%20Encoded%20Arrays)
 

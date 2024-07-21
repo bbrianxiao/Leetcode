@@ -91,6 +91,7 @@
 -
     ``Topological Sort``
     - [1136. Parallel Courses](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/1136.%20Parallel%20Courses)
+    - [2392. Build a Matrix With Conditions](https://github.com/bbrianxiao/Leetcode/tree/main/Graph%20Theory/2392.%20Build%20a%20Matrix%20With%20Conditions)
 
 #### [Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree)  
 -

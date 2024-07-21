@@ -1,4 +1,4 @@
-# Build a Matrix With Conditions
+# 2392. Build a Matrix With Conditions
 
 ## Overview
 The `buildMatrix` function in the `Solution` class constructs a `k x k` matrix based on given row and column conditions. These conditions specify the order of the values in the rows and columns of the matrix. The task involves topological sorting based on the given conditions to determine the placement of integers from `1` to `k` in the matrix.

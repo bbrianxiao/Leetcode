@@ -35,6 +35,7 @@
 - [2125. Number of Laser Beams in a Bank](https://github.com/bbrianxiao/Leetcode/tree/main/Greedy/2125.%20number%20of%20laser%20beams%20in%20a%20bank)
 
 #### [Stack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack)
+- [20. Valid Parentheses](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/20.%20Valid%20Parentheses)
 - [71. Simplify Path](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/71.%20Simplify%20Path)
 - [150. MinStack](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/150.%20Min%20Stack)
 - [227. Basic Calculator II](https://github.com/bbrianxiao/Leetcode/tree/main/Stack/227.%20Basic%20Calculator%20II)

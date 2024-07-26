@@ -6,6 +6,7 @@
 - [15. 3Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/15.%203Sum)
 - [125. Valid Palindrome](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/125.%20Valid%20Palindrome)
 - [680. Valid Palindrome II](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/680.%20Valid%20Palindrome%20II)
+- [1004. Max Consecutive Ones III](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/1004.%20Max%20Consecutive%20Ones%20III)
 
     ``Two pointers for two sequences``
     - [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Two%20Pointer/88.%20Merge%20Sorted%20Array)

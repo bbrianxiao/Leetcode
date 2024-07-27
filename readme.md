@@ -116,9 +116,12 @@
 #### [Dynamic Programming](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming) 
 - [70. Climbing Stairs](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/70.%20Climbing%20Stairs)
 - [931. Minimum Falling Path Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/931.%20Minimum%20Falling%20Path%20Sum%20Solution)
--
+
     ``Bitmask``
     - [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20)
+
+    ``Double Sequence DP``
+    - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)

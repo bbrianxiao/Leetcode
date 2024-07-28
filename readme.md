@@ -125,6 +125,7 @@
     - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching)
 
     ``Memorization Search``
+    - [494. Target Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/494.%20Target%20Sum)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)

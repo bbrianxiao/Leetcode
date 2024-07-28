@@ -114,6 +114,7 @@
 
 
 #### [Dynamic Programming](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming) 
+- [62. Unique Paths](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/62.%20Unique%20Paths)
 - [70. Climbing Stairs](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/70.%20Climbing%20Stairs)
 - [931. Minimum Falling Path Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/931.%20Minimum%20Falling%20Path%20Sum%20Solution)
 

@@ -124,6 +124,8 @@
     ``Double Sequence DP``
     - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching)
 
+    ``Memorization Search``
+
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
 - [138. Copy List with Random Pointer](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer)

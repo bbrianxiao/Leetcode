@@ -134,4 +134,5 @@
 - [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst)
 - [708. Insert into a Sorted Circular Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/708.%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List)
 
-
+#### [Trie](https://github.com/bbrianxiao/Leetcode/tree/main/Trie) 
+- [139. Word Break](https://github.com/bbrianxiao/Leetcode/tree/main/Trie/139.%20Word%20Break)

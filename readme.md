@@ -25,7 +25,7 @@
 - [498. Diagonal Traverse](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix/498.%20Diagonal%20Traverse)
 
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
-- [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)  
+- [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points)
 
     ``Random Picks``
     - [398. Random Pick Index](https://github.com/bbrianxiao/Leetcode/tree/main/Math/398.%20Random%20Pick%20Index)
@@ -53,7 +53,7 @@
 
 #### [String](https://github.com/bbrianxiao/Leetcode/tree/main/String)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/bbrianxiao/Leetcode/tree/main/String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
-- [65. Valid Number](https://github.com/bbrianxiao/Leetcode/tree/main/String/65.%20Valid%20Number)
+- [65. Valid Number](https://github.com/bbrianxiao/Leetcode/tree/main/String/65.%20Valid%20Number) (M)
 - [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String)
 - [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String)
 

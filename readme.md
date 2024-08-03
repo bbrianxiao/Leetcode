@@ -125,6 +125,7 @@
     - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching)
 
     ``Memorization Search (top-down/bottom-up)``
+    - [329. Longest Increasing Path in a Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
     - [494. Target Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/494.%20Target%20Sum)
     - [375. Guess Number Higher or Lower II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/375.%20Guess%20Number%20Higher%20or%20Lower%20II)
 

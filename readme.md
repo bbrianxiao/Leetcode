@@ -127,6 +127,7 @@
     ``Memorization Search (top-down/bottom-up)``
     - [329. Longest Increasing Path in a Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix) (H-)
     - [375. Guess Number Higher or Lower II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/375.%20Guess%20Number%20Higher%20or%20Lower%20II) (M)
+    - [403. Frog Jump](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/403.%20Frog%20Jump) (H-)
     - [494. Target Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/494.%20Target%20Sum) (M)
     - [546. Remove Boxes](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/546.%20Remove%20Boxes) (H+)
     - [894. All Possible Full Binary Trees](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/894.%20All%20Possible%20Full%20Binary%20Trees) (M)

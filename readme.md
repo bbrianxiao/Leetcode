@@ -130,6 +130,7 @@
     - [403. Frog Jump](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/403.%20Frog%20Jump) (H-)
     - [494. Target Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/494.%20Target%20Sum) (M)
     - [546. Remove Boxes](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/546.%20Remove%20Boxes) (H+)
+    - [552. Student Attendance Record II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/552.%20Student%20Attendance%20Record%20II) (H-)
     - [894. All Possible Full Binary Trees](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/894.%20All%20Possible%20Full%20Binary%20Trees) (M)
     - [1444. Number of Ways of Cutting a Pizza](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza) (H+)
 

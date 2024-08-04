@@ -129,6 +129,7 @@
     - [375. Guess Number Higher or Lower II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/375.%20Guess%20Number%20Higher%20or%20Lower%20II) (M)
     - [494. Target Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/494.%20Target%20Sum) (M)
     - [546. Remove Boxes](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/546.%20Remove%20Boxes) (H+)
+    - [1444. Number of Ways of Cutting a Pizza](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza) (H+)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E)

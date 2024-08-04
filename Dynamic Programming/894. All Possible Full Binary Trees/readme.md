@@ -19,8 +19,8 @@ The `allPossibleFBT` function in the `Solution` class generates all distinct ful
   - Utilize previous computations (`dp[j]` and `dp[i - 1 - j]`) to build up the solution for `dp[i]`, avoiding redundant tree constructions.
 
 ## Time and Space Complexities
-- **Time Complexity**: `O(2^(n/2))`, where `n` is the number of nodes. This complexity arises due to the combinatorial nature of constructing all possible tree structures by partitioning nodes into left and right subtrees for each tree.
-- **Space Complexity**: `O(n * 2^(n/2))`, because the solution must store all possible tree structures. Each entry in `dp[i]` can hold a combinatorial number of trees, leading to exponential growth in storage requirements.
+- **Time Complexity**: `O(2^{n/2})`, where `n` is the number of nodes. This complexity arises due to the combinatorial nature of constructing all possible tree structures by partitioning nodes into left and right subtrees for each tree.
+- **Space Complexity**: `O(n * 2^{n/2})`, because the solution must store all possible tree structures. Each entry in `dp[i]` can hold a combinatorial number of trees, leading to exponential growth in storage requirements.
 
 ## Problem Link
 For a detailed problem statement and constraints, visit [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/).

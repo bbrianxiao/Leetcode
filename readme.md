@@ -136,8 +136,9 @@
     - [2312. Selling Pieces of Wood](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/2312.%20Selling%20Pieces%20of%20Wood) (H-)
 
     ``Linear DP``
-    - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M+)
     - [53. Maximum Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/53.%20Maximum%20Subarray) (M-)
+    - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M+)
+    - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E)

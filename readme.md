@@ -124,7 +124,7 @@
     ``Double Sequence DP``
     - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching) (H)
 
-    ``Memorization Search (top-down/bottom-up)``
+    ``Memorization Search``
     - [329. Longest Increasing Path in a Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix) (H-)
     - [375. Guess Number Higher or Lower II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/375.%20Guess%20Number%20Higher%20or%20Lower%20II) (M)
     - [403. Frog Jump](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/403.%20Frog%20Jump) (H-)
@@ -134,6 +134,9 @@
     - [894. All Possible Full Binary Trees](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/894.%20All%20Possible%20Full%20Binary%20Trees) (M)
     - [1444. Number of Ways of Cutting a Pizza](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza) (H+)
     - [2312. Selling Pieces of Wood](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/2312.%20Selling%20Pieces%20of%20Wood) (H-)
+
+    ``Linear DP``
+    - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M+)
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E)

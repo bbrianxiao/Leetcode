@@ -1,33 +1,26 @@
 class Solution {
-    long long dp[201][201];
-    map<pair<int, int>, long long> mp;
 public:
-    long long dfs(int m, int n, vector<vector<int>>& prices) {
-        if (dp[m][n] != -1) return dp[m][n];
+	long long sellingWood(int m, int n, vector<vector<int>>& prices) {     
+		vector<vector<long long>> dp(m+1,vector<long long>(n+1,0)); 
 
-        long long ans = mp[{m,n}]; 
+		for(int i = 0;i < prices.size();i++)
+			dp[prices[i][0]][prices[i][1]] = prices[i][2];
 
-        for (int i = 1; i <= m / 2; i++) {
-            ans = max(ans, dfs(i, n, prices) + dfs(m - i, n, prices));
-        }
+		for(int row = 1;row <= m;row++){
+			for(int col = 1;col <= n;col++){
 
-        for (int i = 1; i <= n / 2; i++) {
-            ans = max(ans, dfs(m, i, prices) + dfs(m, n - i, prices));
-        }
+				long long ans = dp[row][col]; 
 
-        return dp[m][n] = ans;
-    }
+				for(int i = 1;i <= row/2;i++) 
+					ans = max(ans,dp[i][col] + dp[row-i][col]);
 
-    long long sellingWood(int m, int n, vector<vector<int>>& prices) {
-        for (int i = 0; i < 201; ++i) {
-            for (int j = 0; j < 201; ++j) {
-                dp[i][j] = -1;
-            }
-        }
+				for(int j = 1;j <= col/2;j++)
+					ans = max(ans,dp[row][j] + dp[row][col-j]);
 
-        for (int i = 0; i < prices.size(); i++) {
-            mp[{prices[i][0], prices[i][1]}] = prices[i][2];
-        }
-        return dfs(m, n, prices);
-    }
+				dp[row][col] = ans;
+			}
+		}
+
+		return dp[m][n];
+	}
 };

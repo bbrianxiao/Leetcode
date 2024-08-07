@@ -139,6 +139,7 @@
 
     ``Two Sequence``
     - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching) (H)
+    - [72. Edit Distance](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/72.%20Edit%20Distance) (M+)
     - [718. Maximum Length of Repeated Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray) (M+)
     - [1143. Longest Common Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence) (M+)
 

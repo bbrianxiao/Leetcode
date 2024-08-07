@@ -141,6 +141,7 @@
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
 
     ``Two Sequence``
+    - [718. Maximum Length of Repeated Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray) (M+)
     - [1143. Longest Common Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence) (M+)
 
     ``Matrix/Puzzle``

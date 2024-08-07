@@ -121,9 +121,6 @@
     ``Bitmask``
     - [691. Stickers to Spell Word](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/691.%20Stickers%20to%20Spell%20Word%20) (H)
 
-    ``Double Sequence DP``
-    - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching) (H)
-
     ``Memorization Search``
     - [329. Longest Increasing Path in a Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix) (H-)
     - [375. Guess Number Higher or Lower II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/375.%20Guess%20Number%20Higher%20or%20Lower%20II) (M)
@@ -141,6 +138,7 @@
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
 
     ``Two Sequence``
+    - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching) (H)
     - [718. Maximum Length of Repeated Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray) (M+)
     - [1143. Longest Common Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence) (M+)
 

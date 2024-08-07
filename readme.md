@@ -144,6 +144,7 @@
     - [1143. Longest Common Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence) (M+)
 
     ``Matrix/Puzzle``
+    - [64. Minimum Path Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/64.%20Minimum%20Path%20Sum) (M)
     - [1289. Minimum Falling Path Sum II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1289.%20Minimum%20Falling%20Path%20Sum%20II) (H-)
 
 

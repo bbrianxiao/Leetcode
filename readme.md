@@ -141,7 +141,8 @@
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
 
     ``Matrix/Puzzla``
-    
+    - [1289. Minimum Falling Path Sum II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1289.%20Minimum%20Falling%20Path%20Sum%20II) (H-)
+
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E)

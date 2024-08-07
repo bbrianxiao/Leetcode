@@ -135,12 +135,14 @@
     - [1444. Number of Ways of Cutting a Pizza](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza) (H+)
     - [2312. Selling Pieces of Wood](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/2312.%20Selling%20Pieces%20of%20Wood) (H-)
 
-    ``Linear DP``
+    ``One Sequence``
     - [53. Maximum Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/53.%20Maximum%20Subarray) (M-)
     - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M+)
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
 
-    ``Matrix/Puzzla``
+    ``Two Sequence``
+
+    ``Matrix/Puzzle``
     - [1289. Minimum Falling Path Sum II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1289.%20Minimum%20Falling%20Path%20Sum%20II) (H-)
 
 

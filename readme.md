@@ -143,6 +143,9 @@
     - [718. Maximum Length of Repeated Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray) (M+)
     - [1143. Longest Common Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence) (M+)
 
+    ``String-free``
+    - [343. Integer Break](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/343.%20Integer%20Break) (M+)
+
     ``Matrix/Puzzle``
     - [64. Minimum Path Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/64.%20Minimum%20Path%20Sum) (M)
     - [221. Maximal Square](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/221.%20Maximal%20Square) (M)

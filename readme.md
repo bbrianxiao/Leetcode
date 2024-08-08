@@ -145,6 +145,7 @@
 
     ``String-free``
     - [343. Integer Break](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/343.%20Integer%20Break) (M+)
+    - [650. 2 Keys Keyboard](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/650.%202%20Keys%20Keyboard) (M+)
 
     ``Matrix/Puzzle``
     - [64. Minimum Path Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/64.%20Minimum%20Path%20Sum) (M)

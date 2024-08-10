@@ -135,6 +135,7 @@
     ``One Sequence``
     - [53. Maximum Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/53.%20Maximum%20Subarray) (M-)
     - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M)
+    - [354. Russian Doll Envelopes](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/354.%20Russian%20Doll%20Envelopes) (H-)
     - [673. Number of Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence) (M+)
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
 

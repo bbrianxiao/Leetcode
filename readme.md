@@ -135,6 +135,7 @@
     ``One Sequence``
     - [53. Maximum Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/53.%20Maximum%20Subarray) (M-)
     - [152. Maximum Product Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray) (M+)
+    - [198. House Robber](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/198.%20House%20Robber) (M-)
     - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M)
     - [354. Russian Doll Envelopes](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/354.%20Russian%20Doll%20Envelopes) (H-)
     - [673. Number of Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence) (M+)

@@ -143,6 +143,7 @@
     - [740. Delete and Earn](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/740.%20Delete%20and%20Earn) (M)
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
     - [918. Maximum Sum Circular Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/918.%20Maximum%20Sum%20Circular%20Subarray) (M+)
+    - [1388. Pizza with 3n Slices](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1388.%20Pizza%20with%203n%20Slices) (H)
 
     ``Two Sequence``
     - [10. Regular Expression Matching](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/10.%20Regular%20Expression%20Matching) (H)

@@ -133,6 +133,7 @@
     - [2312. Selling Pieces of Wood](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/2312.%20Selling%20Pieces%20of%20Wood) (H-)
 
     ``One Sequence``
+    - [32. Longest Valid Parentheses](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/32.%20Longest%20Valid%20Parentheses) (H+)
     - [53. Maximum Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/53.%20Maximum%20Subarray) (M-)
     - [152. Maximum Product Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray) (M+)
     - [198. House Robber](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/198.%20House%20Robber) (M-)

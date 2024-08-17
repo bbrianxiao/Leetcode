@@ -141,6 +141,7 @@
     - [300. Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence) (M)
     - [354. Russian Doll Envelopes](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/354.%20Russian%20Doll%20Envelopes) (H-)
     - [368. Largest Divisible Subset](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/368.%20Largest%20Divisible%20Subset) (M)
+    - [413. Arithmetic Slices](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/413.%20Arithmetic%20Slices) (M-)
     - [673. Number of Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence) (M+)
     - [740. Delete and Earn](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/740.%20Delete%20and%20Earn) (M)
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)

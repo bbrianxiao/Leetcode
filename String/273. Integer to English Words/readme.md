@@ -24,7 +24,7 @@ The `numberToWords` function in the `Solution` class converts a non-negative int
   - Ensure spacing and formatting by trimming extra spaces at the end.
 
 ## Time and Space Complexities
-- **Time Complexity**: `O(1)`, as the number of operations is constant relative to the size of the input. The loop iterates a maximum of four times (for numbers up to a billion).
+- **Time Complexity**: `O(log_10 N)`, as the number of operations is constant relative to the size of the input. The loop iterates a maximum of four times (for numbers up to a billion).
 - **Space Complexity**: `O(1)` for storing predefined word lists and temporary strings for result construction.
 
 ## Problem Link

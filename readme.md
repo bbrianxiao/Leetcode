@@ -146,6 +146,7 @@
     - [639. Decode Ways II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/639.%20Decode%20Ways%20II) (H+)
     - [673. Number of Longest Increasing Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence) (M+)
     - [740. Delete and Earn](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/740.%20Delete%20and%20Earn) (M)
+    - [801. Minimum Swaps to Make Sequences Increasing](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/801.%20Minimum%20Swaps%20to%20Make%20Sequences%20Increasing) (H-)
     - [873. Length of Longest Fibonacci Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence) (M+)
     - [918. Maximum Sum Circular Subarray](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/918.%20Maximum%20Sum%20Circular%20Subarray) (M+)
     - [1027. Longest Arithmetic Subsequence](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1027.%20Longest%20Arithmetic%20Subsequence) (M)

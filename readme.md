@@ -185,6 +185,9 @@
 - [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst) (M)
 - [708. Insert into a Sorted Circular Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/708.%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List) (M)
 
+    ``Divide and Conquer``
+    - [23. Merge k Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/23.%20Merge%20k%20Sorted%20Lists) (H)
+
 #### [Trie](https://github.com/bbrianxiao/Leetcode/tree/main/Trie) 
 - [139. Word Break](https://github.com/bbrianxiao/Leetcode/tree/main/Trie/139.%20Word%20Break) (M)
 - [140. Word Break II](https://github.com/bbrianxiao/Leetcode/tree/main/Trie/140.%20Word%20Break%20II) (H)

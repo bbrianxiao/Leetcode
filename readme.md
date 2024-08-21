@@ -24,6 +24,9 @@
 #### [Backtracking](https://github.com/bbrianxiao/Leetcode/tree/main/Backtracking)
 - [17. Letter Combinations of a Phone Number](https://github.com/bbrianxiao/Leetcode/tree/main/Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number) (M)
 
+#### [Binary Search](https://github.com/bbrianxiao/Leetcode/tree/main/Binary%20Search)
+- [33. Search in Rotated Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array) (M)
+
 #### [Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix)
 - [498. Diagonal Traverse](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix/498.%20Diagonal%20Traverse) (M)
 

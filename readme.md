@@ -174,6 +174,9 @@
     - [221. Maximal Square](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/221.%20Maximal%20Square) (M)
     - [1289. Minimum Falling Path Sum II](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/1289.%20Minimum%20Falling%20Path%20Sum%20II) (H-)
 
+    ``Intervals``
+    - [647. Palindromic Substrings](https://github.com/bbrianxiao/Leetcode/tree/main/Dynamic%20Programming/647.%20Palindromic%20Substrings) (M)
+
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E)

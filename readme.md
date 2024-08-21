@@ -79,6 +79,7 @@
 - [1913. Max Product Difference Between Two Pairs](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs) (E)
 
 #### [Hash Map](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map)
+- [146. LRU Cache](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/146.%20LRU%20Cache) (M)
 - [249. Group Shifted Strings](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/249.%20Group%20Shifted%20Strings) (M)
 - [359. Logger Rate Limiter](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/359.%20Logger%20Rate%20Limiter) (E)
 - [525. Contiguous Array](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/525.%20Contiguous%20Array) (M)

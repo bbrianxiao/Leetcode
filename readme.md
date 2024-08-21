@@ -21,6 +21,9 @@
 - [50. Pow(x, n)](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/50.%20Pow(x%2C%20n)) (M)
 - [339. Nested List Weight Sum](https://github.com/bbrianxiao/Leetcode/tree/main/Recursion/339.%20Nested%20List%20Weight%20Sum) (M)
 
+#### [Backtracking](https://github.com/bbrianxiao/Leetcode/tree/main/Backtracking)
+- [17. Letter Combinations of a Phone Number](https://github.com/bbrianxiao/Leetcode/tree/main/Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number) (M)
+
 #### [Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix)
 - [498. Diagonal Traverse](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix/498.%20Diagonal%20Traverse) (M)
 

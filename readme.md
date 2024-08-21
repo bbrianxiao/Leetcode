@@ -179,6 +179,7 @@
 
 
 #### [Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List) 
+- [2. Add Two Numbers](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/2.%20Add%20Two%20Numbers) (M)
 - [21. Merge Two Sorted Lists](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists) (E)
 - [138. Copy List with Random Pointer](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer) (M)
 - [260. Reverse Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Linked%20List/206.%20Reverse%20Linked%20LIst) (M)

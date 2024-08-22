@@ -32,6 +32,7 @@
 
 #### [Design](https://github.com/bbrianxiao/Leetcode/tree/main/Design)
 - [362. Design Hit Counter](https://github.com/bbrianxiao/Leetcode/tree/main/Design/362.%20Design%20Hit%20Counter) (M)
+- [981. Time Based Key-Value Store](https://github.com/bbrianxiao/Leetcode/tree/main/Design/981.%20Time%20Based%20Key-Value%20Store) (M)
 
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
 - [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points) (E)

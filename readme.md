@@ -30,6 +30,9 @@
 #### [Matrix](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix)
 - [498. Diagonal Traverse](https://github.com/bbrianxiao/Leetcode/tree/main/Matrix/498.%20Diagonal%20Traverse) (M)
 
+#### [Design](https://github.com/bbrianxiao/Leetcode/tree/main/Design)
+- [362. Design Hit Counter](https://github.com/bbrianxiao/Leetcode/tree/main/Design/362.%20Design%20Hit%20Counter) (M)
+
 #### [Math](https://github.com/bbrianxiao/Leetcode/tree/main/Math)
 - [1266. Minimum Time Visiting All Points](https://github.com/bbrianxiao/Leetcode/tree/main/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points) (E)
 

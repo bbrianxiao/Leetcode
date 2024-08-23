@@ -100,6 +100,7 @@
 - [1570. Dot Product of Two Sparse Vectors](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors) (M)
 - [1624. Largest Substring Between Two Equal Characters](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters) (E)
 - [1636. Sort Array by Increasing Frequency](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/1636.%20Sort%20Array%20by%20Increasing%20Frequency) (E)
+- [2131. Longest Palindrome by Concatenating Two-Letter Words](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two-Letter%20Words) (M)
 - [2610. Convert an Array Into a 2D Array With Conditions](https://github.com/bbrianxiao/Leetcode/tree/main/Hash%20Map/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions) (M)
 
     ``Hash + PrefixSum``

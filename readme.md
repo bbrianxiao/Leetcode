@@ -125,6 +125,7 @@
     - [314. Binary Tree Vertical Order Traversal](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/314.%20Binary%20Tree%20Vertical%20Order%20Traversal) (M)
     - [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List) (M)
     - [515. Find Largest Value in Each Tree Row](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row) (M)
+    - [742. Closest Leaf in a Binary Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/742.%20Closest%20Leaf%20in%20a%20Binary%20Tree) (M)
 -
     ``Lowest Common Ancestor``
     - [236. Lowest Common Ancestor in a Binary Tree](https://github.com/bbrianxiao/Leetcode/tree/main/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) (M)

@@ -24,7 +24,7 @@ The `splitMessage` function in the `Solution` class splits a given string `messa
 - **Space Complexity**: O(M), where M is the number of message parts generated. This accounts for the storage of each message part in the output list.
 
 ## Problem Link
-For more information, visit [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) (Note: This problem is a custom problem and might not be publicly available on LeetCode).
+For more information, visit [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
 
 ## Usage
 ```cpp

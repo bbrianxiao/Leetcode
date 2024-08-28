@@ -71,6 +71,7 @@
 - [751. IP to CIDR](https://github.com/bbrianxiao/Leetcode/tree/main/String/751.%20IP%20to%20CIDR) (M)
 - [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String) (M)
 - [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String) (E)
+- [2468. Split Message Based on Limit](https://github.com/bbrianxiao/Leetcode/tree/main/String/2468.%20Split%20Message%20Based%20on%20Limit) (H)
 
     ``Abbreviation``
     - [408. Valid Word Abbreviation](https://github.com/bbrianxiao/Leetcode/tree/main/String/408.%20Valid%20Word%20Abbreviation) (E)

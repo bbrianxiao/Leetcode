@@ -67,6 +67,7 @@
 - [38. Count and Say](https://github.com/bbrianxiao/Leetcode/tree/main/String/38.%20Count%20and%20Say) (M)
 - [65. Valid Number](https://github.com/bbrianxiao/Leetcode/tree/main/String/65.%20Valid%20Number) (H)
 - [273. Integer to English Words](https://github.com/bbrianxiao/Leetcode/tree/main/String/273.%20Integer%20to%20English%20Words) (H)
+- [443. String Compression](https://github.com/bbrianxiao/Leetcode/tree/main/String/443.%20String%20Compression) (M-)
 - [751. IP to CIDR](https://github.com/bbrianxiao/Leetcode/tree/main/String/751.%20IP%20to%20CIDR) (M)
 - [791. Custom Sort String](https://github.com/bbrianxiao/Leetcode/tree/main/String/791.%20Custom%20Sort%20String) (M)
 - [1528. Shuffle String](https://github.com/bbrianxiao/Leetcode/tree/main/String/1528.%20Shuffle%20String) (E)

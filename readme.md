@@ -83,6 +83,7 @@
 - [26. Remove Duplicates from Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array) (E)
 - [27. Remove Element](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/27.%20Remove%20Element) (E)
 - [55. Jump Game](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/55.%20Jump%20Game) (M)
+- [57. Insert Interval](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/57.%20Insert%20Interval) (M)
 - [88. Merge Sorted Array](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/88.%20Merge%20Sorted%20Array) (E)
 - [121. Best Time to Buy and Sell Stock](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) (E)
 - [122. Best Time to Buy and Sell Stock II](https://github.com/bbrianxiao/Leetcode/tree/main/Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) (M)
